@@ -9,7 +9,7 @@
 </p>
 
 <h2 align="center">
-  <a href="#Install">Install</a> · <a href="#list-of-changes">Features</a> · <a href="https://discord.gg/momentum">Discord</a> · <a href="#%EF%B8%8F-support">Donate</a>
+  <a href="#Install">Install</a> · <a href="#list-of-changes">Features</a> · <a href="https://discord.gg/E7SjW7hmKG">Discord</a> · <a href="#%EF%B8%8F-support">Donate</a>
 </h2>
 
 This custom firmware is based on the [Official Firmware](https://github.com/flipperdevices/flipperzero-firmware) for [Flipper Zero](https://flipperzero.one/), and includes most of the awesome features from [Unleashed](https://github.com/DarkFlippers/unleashed-firmware). It is a direct continuation of the Xtreme firmware, built by the same (and only) developers who made that project special.
@@ -93,7 +93,7 @@ Note that this repo is always updated with the great work from our friends at [U
 ```txt
 [Added]
 
-- Momentum App (Easy configuration of features and behavior of the firmware)
+- Neurotek App (Easy configuration of features and behavior of the firmware)
 - Asset Packs (Unparalleled theming and customization)
 - More UI customization, redesigns and optimizations
 - Bad-Keyboard App
@@ -137,15 +137,8 @@ Note that this repo is always updated with the great work from our friends at [U
 
 <h2 align="center">Install</h2>
 
-There are 4 methods to install Momentum, we recommend you use the **Web Updater**, but choose whichever one you prefer:
+There are 4 methods to install Neurotek, we recommend you use the **Web Updater**, but choose whichever one you prefer:
 
-> <details><summary><code>Web Updater (Chrome)</code></summary><ul>
->   <li>Make sure qFlipper is closed</li>
->   <li>Open the <a href="https://momentum-fw.dev/update">Web Updater</a></li>
->   <li>Click <code>Connect</code> and select your Flipper from the list</li>
->   <li>Select which update <code>Channel</code> you prefer from the dropdown</li>
->   <li>Click <code>Install</code> and wait for the update to complete</li>
-> </ul></details>
 
 > <details><summary><code>Flipper Lab/App (chrome/mobile)</code></summary><ul>
 >   <li>(Desktop) Make sure qFlipper is closed</li>
