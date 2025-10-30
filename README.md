@@ -187,8 +187,8 @@ $ ./fbt launch APPSRC=your_appid
 ```
 
 <h2 align="center">Stargazers over time</h2>
-
-[![Stargazers over time](https://starchart.cc/DARIUSISTOC1/neurotek-firmware.svg?variant=adaptive)](https://starchart.cc/Next-Flip/Momentum-Firmware)
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/DARIUSISTOC1/neurotek-firmware.svg?variant=adaptive)](https://starchart.cc/DARIUSISTOC1/neurotek-firmware)
 
 <h2 align="center">❤️ Support</h2>
 
